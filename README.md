@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, my name is Stanislav Zmiev 👋
 
-<!--
-**Ovsyanka83/ovsyanka83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently looking for work in backend development, fullstack development, or distributed systems with relocation
+- My specialty is CPython with FastAPI
+- I have built numerous open source projects over the years, most of which can be found in my GitHub projects
+- I'm currently delving into DevOps, CI/CD, and automation
+- In my spare time, I contribute to open source and participate in developer meetups and conferences
+- My passion is creating syntacic sugar with metaprogramming and experimenting with developer tools to provide programmers with the best possible support while coding
+- 📫 How to reach me:
+  - [Linkedin](https://www.linkedin.com/in/stanislav-zmiev/)
+  - [GitHub](https://github.com/Ovsyanka83) (You're here)
+  - [Email](mailto:szmiev2000@gmail.com)
