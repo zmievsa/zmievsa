@@ -1,6 +1,6 @@
 ### Hi there, my name is Stanislav Zmiev 👋
 
-- My specialty is Backend Development but I have done a fair share of frontend, mobile, DevOps, and lower level development in my spare time 
+- My specialty is Backend Development but I have done a fair share of frontend, mobile, DevOps, and lower level stuff in my spare time 
 - I have built numerous open source projects over the years, most of which can be found on my GitHub page
 - I'm currently delving into CI/CD, automation, and Rust programming language
 - In my spare time, I contribute to open source and participate in developer meetups and conferences
