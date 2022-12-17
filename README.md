@@ -2,10 +2,13 @@
 
 - My specialty is Backend Development but I have done a fair share of frontend, mobile, DevOps, and lower level stuff in my spare time 
 - I have built numerous open source projects over the years, most of which can be found on my GitHub page
-- I'm currently delving into CI/CD, automation, and Rust programming language
-- In my spare time, I contribute to open source and participate in developer meetups and conferences
-- My passion is combining and implementing development tools to provide programmers with the best possible support while coding
+- My passion is creating and combining development tools to provide programmers with the best possible support while coding
+- In my spare time, I contribute to open source and participate in developer meetups and conferences. Over the years I have contributed features to many projects. For example:
+  - [CPython](https://docs.python.org/3.12/whatsnew/3.12.html#pathlib)
+  - [typeshed](https://github.com/python/typeshed)
+  - [ideas](https://github.com/aroberge/ideas)
+  - [pygount](https://github.com/roskakori/pygount)
+  - [tortoise-orm](https://github.com/tortoise/tortoise-orm)
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/stanislav-zmiev/)
-  - [GitHub](https://github.com/Ovsyanka83) (You're here)
   - [Email](mailto:szmiev2000@gmail.com)
