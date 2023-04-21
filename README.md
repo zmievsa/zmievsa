@@ -9,6 +9,3 @@
   - [ideas](https://github.com/aroberge/ideas)
   - [pygount](https://github.com/roskakori/pygount/pulls?q=is%3Apr+author%3AOvsyanka83+)
   - [tortoise-orm](https://github.com/tortoise/tortoise-orm/pulls?q=is%3Apr+author%3AOvsyanka83+)
-- 📫 How to reach me:
-  - [Linkedin](https://www.linkedin.com/in/stanislav-zmiev/)
-  - [Email](mailto:szmiev2000@gmail.com)
