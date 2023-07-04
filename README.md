@@ -6,6 +6,7 @@
 - In my spare time, I contribute to open source and participate in developer meetups and conferences. Over the years I have contributed code to many projects. For example:
   - [CPython](https://github.com/python/cpython/pulls?q=is%3Apr+author%3AOvsyanka83+)
   - [typeshed](https://github.com/python/typeshed/pulls?q=is%3Apr+author%3AOvsyanka83+)
+  - [tortoise-orm](https://github.com/tortoise/tortoise-orm/pulls?q=is%3Apr+author%3AOvsyanka83+)
   - [ideas](https://github.com/aroberge/ideas)
   - [pygount](https://github.com/roskakori/pygount/pulls?q=is%3Apr+author%3AOvsyanka83+)
-  - [tortoise-orm](https://github.com/tortoise/tortoise-orm/pulls?q=is%3Apr+author%3AOvsyanka83+)
+  - [inflect](https://github.com/jaraco/inflect/pulls?q=is%3Apr+author%3AOvsyanka83+)
