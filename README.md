@@ -4,7 +4,7 @@
 [![mail](https://img.shields.io/badge/gmail-c14438?style=flat-square&message=gmail&logo=Gmail&logoColor=white&link=mailto:zmievsa@gmail.com)](mailto:zmievsa@gmail.com)
 [![Linkedln](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zmievsa/)
 
-- I am a Platform Engineer with an extensive experience in devtools and backend Development
+- I am a Tech Lead with an extensive experience in platform engineering and backend Development
 - I have done a fair share of frontend, mobile, DevOps, and lower level stuff in my spare time
 - I have built numerous open source projects over the years, most of which can be found on my GitHub page
 - My passion is creating and combining development tools to provide programmers with the best possible support while coding. To increase value without needing to increase the team size
