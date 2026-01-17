@@ -12,7 +12,7 @@
   - [CPython](https://github.com/python/cpython/pulls?q=is%3Apr+author%3Azmievsa+)
   - [typeshed](https://github.com/python/typeshed/pulls?q=is%3Apr+author%3Azmievsa+)
   - [tortoise-orm](https://github.com/tortoise/tortoise-orm/pulls?q=is%3Apr+author%3Azmievsa+)
-  - [opentelemetry python SDK](https://github.com/open-telemetry/opentelemetry-python/pulls?q=is%3Apr+author%3Azmievsa+)
+  - [opentelemetry python SDK](https://github.com/open-telemetry/opentelemetry-python-contrib/pulls?q=is%3Apr+author%3Azmievsa+)
   - [ideas](https://github.com/aroberge/ideas)
   - [pygount](https://github.com/roskakori/pygount/pulls?q=is%3Apr+author%3Azmievsa+)
   - [inflect](https://github.com/jaraco/inflect/pulls?q=is%3Apr+author%3Azmievsa+)
