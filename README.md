@@ -17,5 +17,6 @@
   - [pygount](https://github.com/roskakori/pygount/pulls?q=is%3Apr+author%3Azmievsa+)
   - [inflect](https://github.com/jaraco/inflect/pulls?q=is%3Apr+author%3Azmievsa+)
   - [dstack](https://github.com/dstackai/dstack/pulls?q=+is%3Apr+author%3Azmievsa)
+  - [otterbrix](https://github.com/otterbrix/otterbrix/pulls?q=is%3Apr+author%3Azmievsa+)
   
 ... any many smaller projects! 
